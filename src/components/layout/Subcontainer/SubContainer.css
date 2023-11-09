@@ -1,0 +1,33 @@
+.SubContainer {
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.post-div {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.post-card-heading {
+  padding: 8px 16px;
+}
+
+.tag-div {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.tags {
+  gap: 5px;
+  max-width: 450px;
+  display: flex;
+  flex-wrap: wrap;
+  background: #fff;
+  padding: 17px 22px;
+  line-height: 28px;
+}
+
+.tag-div h3 {
+  padding: 20px 20px;
+  margin: 0;
+}

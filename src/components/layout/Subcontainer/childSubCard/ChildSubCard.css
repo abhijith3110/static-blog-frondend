@@ -1,0 +1,29 @@
+.post-card-img img {
+    width: 100%;
+}
+
+.post-card-img {
+    width: 50px;
+}
+
+.card-content {
+    display: flex;
+    background: #fff;
+    padding: 20px 20px;
+    gap: 25px;
+    border-bottom: 1px solid #ddd;
+}
+
+.popular-post-content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.mainHeading {
+    font-size: 20px;
+}
+
+.card-content:hover {
+    background: #ccc;
+}

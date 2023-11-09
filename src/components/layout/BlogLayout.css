@@ -1,0 +1,26 @@
+.container {
+  max-width: 1440px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.card-container {
+  display: flex;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.sub-header {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin: 0;
+}
+
+.sub-heading-bold {
+  padding: 0px 5px 0px 5px;
+  background: #000;
+  color: #FFF;
+}

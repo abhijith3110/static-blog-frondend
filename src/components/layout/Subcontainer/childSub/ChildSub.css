@@ -1,0 +1,22 @@
+.sub-child-card {
+    background: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.sub-child-card img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.sub-card-content {
+    padding: 5px 10px;
+}
+
+.sub-content-heading {
+    margin: 0;
+}
+
+.sub-content-descrption {
+    font-size: 15px;
+    line-height: 1.5;
+}

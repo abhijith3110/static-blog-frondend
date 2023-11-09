@@ -1,0 +1,7 @@
+.MainContainer {
+    max-width: 950px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}

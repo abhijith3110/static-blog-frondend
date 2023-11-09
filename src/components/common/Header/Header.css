@@ -1,0 +1,12 @@
+.Header {
+    font-weight: 700;
+    font-size: 38px;
+    margin: 50px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.heading-block {
+    display: flex;
+    flex-direction: column;
+}
